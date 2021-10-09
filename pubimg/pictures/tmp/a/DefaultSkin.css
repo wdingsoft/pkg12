@@ -1,0 +1,534 @@
+A {
+	TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #000000
+}
+A:visited {
+	COLOR: #333333
+}
+A:hover {
+	COLOR: #ae0927
+}
+A:active {
+	COLOR: #0000ff
+}
+A.channel:link {
+	COLOR: #ffffff
+}
+A.channel:visited {
+	COLOR: #ffffff
+}
+A.channel:hover {
+	COLOR: #ffff00
+}
+A.channel:active {
+	COLOR: #ffffff
+}
+A.channel2:link {
+	COLOR: #ffff00
+}
+A.channel2:visited {
+	COLOR: #ffff00
+}
+A.channel2:hover {
+	COLOR: #ff6600
+}
+A.channel2:active {
+	COLOR: #ffff00
+}
+A.bottom:link {
+	COLOR: #ffffff
+}
+A.bottom:visited {
+	COLOR: #ffffff
+}
+A.bottom:hover {
+	COLOR: #ffff00
+}
+A.bottom:active {
+	COLOR: #ffffff
+}
+A.class:link {
+	COLOR: #ffffff
+}
+A.class:visited {
+	COLOR: #ffffff
+}
+A.class:hover {
+	COLOR: #ff0000
+}
+A.class:active {
+	COLOR: #ffffff
+}
+BODY {
+	SCROLLBAR-ARROW-COLOR: #330000; SCROLLBAR-FACE-COLOR: #f6f6f6; MARGIN: 0px; SCROLLBAR-DARKSHADOW-COLOR: #ffffff; BACKGROUND: url(/Skin/ocean/bg_all1.gif) center 50%; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #cccccc; FONT-SIZE: 9pt; SCROLLBAR-TRACK-COLOR: #f6f6f6; TEXT-DECORATION: none; SCROLLBAR-3DLIGHT-COLOR: #cccccc
+}
+TD {
+	LINE-HEIGHT: 150%; FONT-FAMILY: "??"; FONT-SIZE: 9pt; FONT-WEIGHT: normal
+}
+BUTTON {
+	HEIGHT: 20px; FONT-SIZE: 9pt
+}
+SELECT {
+	HEIGHT: 20px; FONT-SIZE: 9pt
+}
+.top_userlogin {
+	COLOR: #037fa8
+}
+.channel_border {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid
+}
+.channel_title {
+	TEXT-ALIGN: center; BACKGROUND: #cccccc; HEIGHT: 27px; COLOR: #037fa8; FONT-WEIGHT: bold
+}
+.channel_tdbg {
+	LINE-HEIGHT: 120%; BACKGROUND: #fafafa
+}
+.channel_pager {
+	LINE-HEIGHT: 120%; BACKGROUND: #fafafa
+}
+.comment_border {
+	BORDER-BOTTOM: #449ae8 1px solid; BORDER-LEFT: #449ae8 1px solid; BORDER-TOP: #449ae8 1px solid; BORDER-RIGHT: #449ae8 1px solid
+}
+.comment_title {
+	BACKGROUND: #449ae8; HEIGHT: 25px; COLOR: #ffffff; FONT-WEIGHT: normal
+}
+.comment_tdbg1 {
+	LINE-HEIGHT: 120%; BACKGROUND: #ffffff
+}
+.comment_tdbg2 {
+	BACKGROUND: #fafafa
+}
+.s_headline1 {
+	COLOR: blue
+}
+.s_headline2 {
+	COLOR: #ff6600
+}
+.s_headline3 {
+	COLOR: green
+}
+.s_headline4 {
+	COLOR: red
+}
+.top_tdbgall {
+	WIDTH: 760px; BACKGROUND: #ffffff
+}
+.top_top {
+	BACKGROUND: #0089f7; HEIGHT: 2px
+}
+.top_channel {
+	BORDER-BOTTOM: #ffffff 1px solid; TEXT-ALIGN: right; BACKGROUND: #0089f7; COLOR: #3ab1f5 !important; BORDER-TOP: #ffffff 1px solid
+}
+.top_announce {
+	BACKGROUND: url(/Skin/blue/top_nav_menu.gif); HEIGHT: 30px; COLOR: #0560a6
+}
+.top_nav_menu {
+	BACKGROUND-IMAGE: url(/Skin/ocean/menu_bg2.gif); PADDING-LEFT: 33px; HEIGHT: 22px; COLOR: #ffffff
+}
+.top_path {
+	WIDTH: 760px; BACKGROUND: #ffffff; HEIGHT: 30px
+}
+.top_userlogin {
+	COLOR: #037fa8
+}
+.center_tdbgall {
+	WIDTH: 770px; BACKGROUND: #ffffff
+}
+.left_tdbgall {
+	BACKGROUND: #ffffff
+}
+.left_title {
+	BACKGROUND-IMAGE: url(/Skin/ocean/right_t.gif); TEXT-ALIGN: left; PADDING-LEFT: 20px; WIDTH: 182px; HEIGHT: 28px; COLOR: #ffffff; FONT-WEIGHT: bold
+}
+.left_tdbg1 {
+	BORDER-BOTTOM: #a4c6fc 1px; BORDER-LEFT: #a4c6fc 1px solid; PADDING-BOTTOM: 5px; BACKGROUND-COLOR: #e6f5ff; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: #a4c6fc 1px; BORDER-RIGHT: #a4c6fc 1px solid; PADDING-TOP: 5px
+}
+.left_tdbg2 {
+	BACKGROUND-IMAGE: url(/Skin/ocean/tdbg_bottom.gif); BACKGROUND-REPEAT: no-repeat; HEIGHT: 10px
+}
+.right_title_bs06 {
+	BACKGROUND-IMAGE: url(/Skin/ocean/right_t.gif); TEXT-ALIGN: left; PADDING-LEFT: 20px; HEIGHT: 28px; COLOR: #ffffff; FONT-WEIGHT: bold
+}
+.right_title {
+	TEXT-ALIGN: left; PADDING-LEFT: 40px; WIDTH: 180px; BACKGROUND: url(/Skin/blue/right_title.gif); HEIGHT: 28px; COLOR: #ffffff; FONT-WEIGHT: bold
+}
+.main_tdbgall {
+	WIDTH: 572px; BACKGROUND: #ffffff
+}
+.main_shadow {
+	HEIGHT: 4px
+}
+.main_announce {
+	BORDER-BOTTOM: #d2d3d9 1px solid; BORDER-LEFT: #d2d3d9 1px solid; BACKGROUND: #f9f9f9; HEIGHT: 25px; COLOR: #037fa8; BORDER-TOP: #d2d3d9 1px solid; BORDER-RIGHT: #d2d3d9 1px solid
+}
+.main_search {
+	BORDER-BOTTOM: #d2d3d9 1px solid; BORDER-LEFT: #d2d3d9 1px solid; BACKGROUND: #f9f9f9; HEIGHT: 25px; COLOR: #037fa8; BORDER-TOP: #d2d3d9 1px solid; BORDER-RIGHT: #d2d3d9 1px solid
+}
+.main_top {
+	BACKGROUND: url(/Skin/blue/main_top.gif); HEIGHT: 187px
+}
+.main_title_760i {
+	BACKGROUND-IMAGE: url(/Skin/ocean/main_bs.gif); TEXT-ALIGN: left; PADDING-LEFT: 30px; HEIGHT: 27px; COLOR: #ffffff; BORDER-RIGHT: #1c65be 1px solid
+}
+.main_tdbg_760i {
+	BORDER-BOTTOM: #d2d3d9 1px solid; TEXT-ALIGN: left; BORDER-LEFT: #d2d3d9 1px solid; LINE-HEIGHT: 150%; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: #d2d3d9 1px solid; BORDER-RIGHT: #d2d3d9 1px solid
+}
+.main_title_575 {
+	BACKGROUND-IMAGE: url(/Skin/ocean/main_bs1.gif); PADDING-LEFT: 30px; HEIGHT: 27px; COLOR: #ffffff; FONT-WEIGHT: bold; BORDER-RIGHT: #1c65be 1px solid
+}
+.main_title_bs06 {
+	BACKGROUND-IMAGE: url(/Skin/ocean/main_bs.gif); TEXT-ALIGN: left; PADDING-LEFT: 30px; HEIGHT: 27px; COLOR: #ffffff; FONT-WEIGHT: bold; BORDER-RIGHT: #1c65be 1px solid
+}
+.main_tdbg_bsd06 {
+	BACKGROUND-IMAGE: url(/Skin/ocean/main_02.gif); HEIGHT: 4px; COLOR: #ffffff
+}
+.main_tdbg_bs06 {
+	BACKGROUND-IMAGE: url(/Skin/ocean/main_bg.gif); BORDER-BOTTOM: #aec6e8 1px solid; TEXT-ALIGN: left; BORDER-LEFT: #aec6e8 1px solid; LINE-HEIGHT: 150%; BACKGROUND-COLOR: #ffffff; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-RIGHT: #aec6e8 1px solid
+}
+.main2_tdbg_bs06 {
+	BACKGROUND-IMAGE: url(/Skin/ocean/main_bg.gif); TEXT-ALIGN: left; BORDER-LEFT: #aec6e8 1px dashed; LINE-HEIGHT: 150%; BACKGROUND-COLOR: #ffffff; PADDING-LEFT: 5px; PADDING-RIGHT: 5px
+}
+.main_tdbg_575 {
+	BORDER-BOTTOM: #d2d3d9 1px solid; TEXT-ALIGN: left; BORDER-LEFT: #d2d3d9 1px solid; LINE-HEIGHT: 150%; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: #d2d3d9 1px solid; BORDER-RIGHT: #d2d3d9 1px solid
+}
+.main_title_282i {
+	TEXT-ALIGN: left; PADDING-LEFT: 30px; BACKGROUND: url(/Skin/ocean/main_bs.gif); HEIGHT: 27px; COLOR: #ffffff; FONT-WEIGHT: bold; BORDER-RIGHT: #1c65be 1px solid
+}
+.main_title_282 {
+	TEXT-ALIGN: left; PADDING-LEFT: 30px; BACKGROUND: url(/Skin/ocean/main_bs.gif); HEIGHT: 27px; COLOR: #ffffff; FONT-WEIGHT: bold; BORDER-RIGHT: #1c65be 1px solid
+}
+.main_tdbg_282i {
+	BORDER-BOTTOM: #d2d3d9 1px solid; TEXT-ALIGN: left; BORDER-LEFT: #d2d3d9 1px solid; LINE-HEIGHT: 150%; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: #d2d3d9 1px solid; BORDER-RIGHT: #d2d3d9 1px solid
+}
+.main_tdbg_282 {
+	BORDER-BOTTOM: #d2d3d9 1px solid; TEXT-ALIGN: left; BORDER-LEFT: #d2d3d9 1px solid; LINE-HEIGHT: 150%; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: #d2d3d9 1px solid; BORDER-RIGHT: #d2d3d9 1px solid
+}
+.listbg {
+	BACKGROUND: #ffffff
+}
+.listbg2 {
+	BACKGROUND: #f7f7f7
+}
+.main_articletitle {
+	LINE-HEIGHT: 150%; COLOR: #ff0000; FONT-SIZE: 18px; FONT-WEIGHT: bold
+}
+.main_articlesubheading {
+	LINE-HEIGHT: 150%; COLOR: #037fa8; FONT-WEIGHT: bold
+}
+.main_title_760 {
+	BORDER-BOTTOM: #d2d3d9 1px solid; BORDER-LEFT: #d2d3d9 1px solid; BACKGROUND: url(/Skin/ocean/main_bs1.gif); HEIGHT: 28px; COLOR: #ffffff; BORDER-TOP: #d2d3d9 1px solid; BORDER-RIGHT: #d2d3d9 1px solid
+}
+.main_tdbg_760 {
+	BORDER-BOTTOM: #d2d3d9 1px solid; BORDER-LEFT: #d2d3d9 1px solid; PADDING-BOTTOM: 8px; LINE-HEIGHT: normal; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; BORDER-TOP: #d2d3d9 1px solid; BORDER-RIGHT: #d2d3d9 1px solid; PADDING-TOP: 8px
+}
+.article_tdbgall {
+	BACKGROUND: #f5f5f5
+}
+A.guest:link {
+	COLOR: #ffffff
+}
+A.guest:visited {
+	COLOR: #ffffff
+}
+A.guest:hover {
+	COLOR: #ff0000
+}
+A.guest:active {
+	COLOR: #ffffff
+}
+.guest_title_760 {
+	BORDER-BOTTOM: #d2d3d9 1px solid; BORDER-LEFT: #d2d3d9 1px solid; PADDING-LEFT: 5px; BACKGROUND: url(/Skin/ocean/main_bs1.gif); HEIGHT: 29px; COLOR: #ff0000; BORDER-TOP: #d2d3d9 1px solid; BORDER-RIGHT: #d2d3d9 1px solid
+}
+.guest_tdbg_760 {
+	BORDER-BOTTOM: #d2d3d9 1px solid; BORDER-LEFT: #d2d3d9 1px solid; PADDING-BOTTOM: 8px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; BORDER-TOP: #d2d3d9 1px solid; BORDER-RIGHT: #d2d3d9 1px solid; PADDING-TOP: 8px
+}
+.guest_border {
+	BORDER-BOTTOM: #449ae8 1px solid; BORDER-LEFT: #449ae8 1px solid; BORDER-TOP: #449ae8 1px solid; BORDER-RIGHT: #449ae8 1px solid
+}
+.guest_title {
+	BACKGROUND: #449ae8; HEIGHT: 25px; COLOR: #ffffff; FONT-WEIGHT: normal
+}
+.guest_tdbg {
+	LINE-HEIGHT: 120%; BACKGROUND: #fafafa
+}
+.guest_tdbg_1px {
+	BACKGROUND: #d2d3d9
+}
+.guest_border2 {
+	BORDER-BOTTOM: #97d2df 1px dashed; BORDER-LEFT: #97d2df 1px dashed; BACKGROUND: #e8f5f8; COLOR: #006633; BORDER-TOP: #97d2df 1px dashed; BORDER-RIGHT: #97d2df 1px dashed
+}
+.guest_replyadmin {
+	COLOR: #ff0000
+}
+.guest_replyuser {
+	COLOR: #449ae8
+}
+.shop_border {
+	BORDER-BOTTOM: #1c65be 1px solid; BORDER-LEFT: #1c65be 1px solid; BORDER-TOP: #1c65be 1px solid; BORDER-RIGHT: #1c65be 1px solid
+}
+.shop_border3 {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid
+}
+.shop_title {
+	BACKGROUND-IMAGE: url(/Skin/ocean/main_bs1.gif); PADDING-LEFT: 30px; HEIGHT: 27px; COLOR: #ffffff; FONT-WEIGHT: bold; BORDER-RIGHT: #1c65be 1px solid
+}
+.shop_tdbg {
+	LINE-HEIGHT: 120%; BACKGROUND: #fafafa
+}
+.shop_tdbg2 {
+	LINE-HEIGHT: 120%; BACKGROUND: #f5f5f5
+}
+.shop_tdbg3 {
+	LINE-HEIGHT: 120%; BACKGROUND: #ffffff
+}
+.shop_tdbg4 {
+	LINE-HEIGHT: 120%; BACKGROUND: #e1f4ee
+}
+.bottom_tdbgall {
+	WIDTH: 760px; BACKGROUND: #ffffff
+}
+.bottom_adminlogo {
+	BACKGROUND: #0089f7; COLOR: #ffffff
+}
+.bottom_copyright {
+	BACKGROUND: #ffffff; COLOR: #000000
+}
+.menu {
+	BORDER-BOTTOM: 1px; BORDER-LEFT: 1px; BACKGROUND-COLOR: #cccccc; WIDTH: 97%; BORDER-TOP: 1px; BORDER-RIGHT: 1px
+}
+.menubody {
+	BACKGROUND-COLOR: #ffffff
+}
+.channel_font {
+	COLOR: red
+}
+.guest_font {
+	COLOR: green
+}
+A.guest:link {
+	COLOR: #000000
+}
+A.guest:visited {
+	COLOR: #000000
+}
+A.guest:hover {
+	COLOR: #ff6600
+}
+A.guest:active {
+	COLOR: #000000
+}
+A.channel_keylink {
+	TEXT-DECORATION: underline
+}
+A.channel_keylink:link {
+	COLOR: blue
+}
+A.channel_keylink:visited {
+	COLOR: blue
+}
+A.channel_keylink:hover {
+	COLOR: #ff0000
+}
+A.channel_keylink:active {
+	COLOR: blue
+}
+.user_left {
+	BORDER-LEFT: #ffffff 2px solid; PADDING-LEFT: 4px; WIDTH: 170px; PADDING-RIGHT: 4px; BACKGROUND: #f3f3f3
+}
+.user_box {
+	BORDER-BOTTOM: #bfbfbf 1px solid; BORDER-LEFT: #bfbfbf 1px solid; BACKGROUND-COLOR: #ffffff; BORDER-TOP: #bfbfbf 1px solid; BORDER-RIGHT: #bfbfbf 1px solid
+}
+.user_righttitle {
+	BORDER-BOTTOM: #bfbfbf 1px solid; BORDER-LEFT: #ffffff 2px solid; PADDING-BOTTOM: 1px; BACKGROUND-COLOR: #f3f3f3; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: #ffffff 2px solid; BORDER-RIGHT: #ffffff 2px solid; PADDING-TOP: 5px
+}
+.user_line {
+	BACKGROUND-IMAGE: url(/Skin/ocean/line.gif); LINE-HEIGHT: 1px
+}
+.user_toolstop {
+	LINE-HEIGHT: 28px; PADDING-LEFT: 10px; LETTER-SPACING: 4pt; COLOR: #666666; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.user_toolsbot {
+	LINE-HEIGHT: 25px; COLOR: #666666; FONT-SIZE: 12px; BORDER-RIGHT: #ffffff 4px solid
+}
+.user_toolspoint {
+	PADDING-LEFT: 6px
+}
+.user_right {
+	BACKGROUND-COLOR: #ffffff; PADDING-LEFT: 6px; WIDTH: 572px; PADDING-RIGHT: 2px
+}
+.border1 {
+	BORDER-BOTTOM: #bfbfbf 1px solid; BORDER-LEFT: #bfbfbf 1px solid; BORDER-TOP: #bfbfbf 1px solid; BORDER-RIGHT: #bfbfbf 1px solid
+}
+.title {
+	BACKGROUND: #449ae8; COLOR: #ffffff; FONT-WEIGHT: normal
+}
+.border {
+	BORDER-BOTTOM: #449ae8 1px solid; BORDER-LEFT: #449ae8 1px solid; BORDER-TOP: #449ae8 1px solid; BORDER-RIGHT: #449ae8 1px solid
+}
+.tdbg {
+	LINE-HEIGHT: 120%; BACKGROUND: #f0f0f0
+}
+.tdbgmouseover {
+	LINE-HEIGHT: 120%; BACKGROUND: #bfdfff
+}
+.tdbg2 {
+	LINE-HEIGHT: 120%; BACKGROUND: #e0eef5
+}
+.tdbg5 {
+	LINE-HEIGHT: 120%; BACKGROUND: #e0eef5
+}
+.title5 {
+	LINE-HEIGHT: 120%; WIDTH: 80px; BACKGROUND: url(../user/images/titlebg2.gif); CURSOR: hand; PADDING-TOP: 2px
+}
+.title6 {
+	WIDTH: 80px; BACKGROUND: url(../user/images/titlebg1.gif); COLOR: #ffffff; CURSOR: hand; FONT-WEIGHT: normal; PADDING-TOP: 2px
+}
+.button1 {
+	WIDTH: 90px
+}
+.show_page {
+	TEXT-ALIGN: center
+}
+.date_border {
+	BORDER-BOTTOM: 1px solid; BORDER-LEFT: 1px solid; BORDER-TOP: 1px solid; BORDER-RIGHT: 1px solid
+}
+.date_title {
+	BACKGROUND: #449ae8; COLOR: #ffffff; FONT-WEIGHT: normal
+}
+.date_tdbg {
+	BACKGROUND: #449ae8; COLOR: #ffffff; FONT-WEIGHT: normal
+}
+.style2 {
+	FONT-SIZE: 10px
+}
+.style3 {
+	FONT-SIZE: 12px
+}
+#popitmenu {
+	Z-INDEX: 100; BORDER-BOTTOM: black 1px solid; POSITION: absolute; BORDER-LEFT: black 1px solid; BACKGROUND-COLOR: white; FONT: 12px/18px verdana; VISIBILITY: hidden; BORDER-TOP: black 1px solid; BORDER-RIGHT: black 1px solid
+}
+#popitmenu A {
+	PADDING-LEFT: 6px; DISPLAY: block; COLOR: black; TEXT-DECORATION: none
+}
+#popitmenu A:hover {
+	BACKGROUND-COLOR: #ccff9d
+}
+.userbox {
+	BACKGROUND: url(/Skin/ocean/login_02b.gif) no-repeat center center; HEIGHT: 93px
+}
+#userlogined {
+	TEXT-ALIGN: left; PADDING-LEFT: 10px
+}
+#userlogin INPUT {
+	HEIGHT: 20px
+}
+#userctrl {
+	TEXT-ALIGN: center
+}
+#usermessage {
+	TEXT-ALIGN: left; PADDING-LEFT: 10px
+}
+.userlog {
+	COLOR: #ffffff
+}
+.havemessage {
+	BACKGROUND-COLOR: #ccff9d
+}
+.havemessaged {
+	BACKGROUND-COLOR: #cc0000
+}
+.bloglist {
+	TEXT-ALIGN: center; WIDTH: 100%
+}
+.bloglist_image {
+	TEXT-ALIGN: center
+}
+.bloglist_intro {
+	TEXT-ALIGN: center
+}
+#showbloglist_more {
+	TEXT-ALIGN: right; PADDING-RIGHT: 10px
+}
+#supply {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #fff; PADDING-TOP: 0px
+}
+.supplybut {
+	TEXT-ALIGN: left; BORDER-LEFT: #d2d3d9 1px solid; PADDING-BOTTOM: 1px; LINE-HEIGHT: 25px; MARGIN: 0px 8px 0px 0px; PADDING-LEFT: 30px; PADDING-RIGHT: 15px; DISPLAY: block; FLOAT: left; BORDER-TOP: #d2d3d9 1px solid; CURSOR: hand; BORDER-RIGHT: #d2d3d9 1px solid; PADDING-TOP: 1px
+}
+.supplybutover {
+	TEXT-ALIGN: left; BORDER-LEFT: #d2d3d9 1px solid; PADDING-BOTTOM: 1px; LINE-HEIGHT: 25px; MARGIN: 0px 8px 0px 0px; PADDING-LEFT: 30px; PADDING-RIGHT: 15px; DISPLAY: block; FLOAT: left; BORDER-TOP: #d2d3d9 1px solid; CURSOR: hand; BORDER-RIGHT: #d2d3d9 1px solid; PADDING-TOP: 1px
+}
+.supplybut {
+	BACKGROUND: url(/Skin/blue/main_title_575.gif)
+}
+.supplybutover {
+	BACKGROUND: url(/Skin/blue/main_title_282.gif)
+}
+.right_tdbgbs06 {
+	BORDER-BOTTOM: #a4c6fc 1px; BORDER-LEFT: #a4c6fc 1px solid; PADDING-BOTTOM: 5px; BACKGROUND-COLOR: #e6f5ff; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: #a4c6fc 1px; BORDER-RIGHT: #a4c6fc 1px solid; PADDING-TOP: 5px
+}
+.right_tdbg2 {
+	BACKGROUND-IMAGE: url(/Skin/ocean/tdbg_bottom.gif); BACKGROUND-REPEAT: no-repeat; HEIGHT: 10px
+}
+.main_title_bsf {
+	BACKGROUND-IMAGE: url(/Skin/ocean/main_bs1.gif); PADDING-LEFT: 30px; HEIGHT: 27px; COLOR: #ffffff; FONT-WEIGHT: bold; BORDER-RIGHT: #1c65be 1px solid
+}
+.mainblinks {
+	BACKGROUND-IMAGE: url(/Skin/ocean/links_02.gif); HEIGHT: 27px; COLOR: #ffffff; FONT-WEIGHT: bold
+}
+.menu_bottombg {
+	BACKGROUND-IMAGE: url(/Skin/ocean/menu_bottombg.gif); HEIGHT: 31px; COLOR: #ffffff
+}
+.bottom_bg {
+	BACKGROUND-IMAGE: url(/Skin/ocean/bottom_bg.gif)
+}
+.showa {
+	COLOR: #aed2fe
+}
+.menu_s {
+	BACKGROUND-IMAGE: url(/Skin/ocean/menu_bg.jpg); HEIGHT: 26px; COLOR: #ffffff
+}
+.menu_s1 {
+	BACKGROUND-IMAGE: url(/Skin/ocean/menu_bg1.jpg); HEIGHT: 26px; COLOR: red
+}
+.menu_s???? {
+	BACKGROUND-IMAGE: url(/Skin/ocean/menu_bg1.jpg); HEIGHT: 52px; COLOR: #ffffff
+}
+.menu_s???? {
+	BACKGROUND-IMAGE: url(/Skin/ocean/menu_bg1.jpg); HEIGHT: 26px; COLOR: #ffffff
+}
+.AnnounceBody2 {
+	COLOR: #ffffff
+}
+A.AnnounceBody2:link {
+	COLOR: #ffffff
+}
+A.AnnounceBody2:visited {
+	COLOR: #ffffff
+}
+A.AnnounceBody2:hover {
+	COLOR: #ffff00
+}
+A.AnnounceBody2:active {
+	COLOR: #ffffff
+}
+.AnnounceBody10 {
+	COLOR: #333
+}
+A.AnnounceBody10:link {
+	COLOR: #333333
+}
+A.AnnounceBody10:visited {
+	COLOR: #333333
+}
+A.AnnounceBody10:hover {
+	COLOR: #ff0000
+}
+A.AnnounceBody10:active {
+	COLOR: #333333
+}
+HR {
+	HEIGHT: 1px; COLOR: 
+}
